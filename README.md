@@ -2,4 +2,4 @@
 
 ## Contributors
 
-- Master Maintainer
+- Geo (Maintainer) 
